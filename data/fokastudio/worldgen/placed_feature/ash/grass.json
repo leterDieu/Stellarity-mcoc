@@ -1,5 +1,5 @@
 {
-	"feature": "fokastudio:ash/vegetation",
+	"feature": "fokastudio:ash/grass",
 	"placement": [
 		{
 			"type": "minecraft:count_on_every_layer",
