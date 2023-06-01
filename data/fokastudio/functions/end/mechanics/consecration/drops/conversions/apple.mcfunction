@@ -1,6 +1,6 @@
 kill @s
 
-loot spawn ~ ~ ~ loot fokastudio:end/items/perm_buffs/lucky_carrot
+summon item ~ ~ ~ {Item:{id:"chorus_fruit",Count:1b},Motion:[0d,0.1d,0d]}
 execute store result entity @e[type=item,limit=1,sort=nearest] Item.Count byte 1 run scoreboard players get #count foka.misc
 tag @e[type=item,limit=1,sort=nearest] add foka.consecration.ignore
 
