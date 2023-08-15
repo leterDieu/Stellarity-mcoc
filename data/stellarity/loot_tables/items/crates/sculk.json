@@ -11,15 +11,15 @@
 						{
 							"function": "minecraft:set_loot_table",
 							"type": "minecraft:barrel",
-							"name": "stellarity:void_fishing/crates/prismarine"
+							"name": "stellarity:void_fishing/crates/sculk"
 						},
 						{
 							"function": "minecraft:set_name",
 							"entity": "this",
 							"name": {
-								"translate": "stellarity.items.crates.prismarine",
-								"fallback": "Prismarine Crate",
-								"color": "#26C9EA",
+								"translate": "stellarity.items.crates.sculk",
+								"fallback": "Sculk Crate",
+								"color": "#00082A",
 								"italic": false
 							}
 						},
