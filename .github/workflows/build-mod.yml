@@ -1,4 +1,4 @@
-name: Stellarity-DP-DEV
+name: Stellarity-Mod-DEV
 on: [push]
 jobs:
   build:
@@ -7,9 +7,11 @@ jobs:
     - uses: actions/checkout@master
     - uses: actions/upload-artifact@v4
       with:
-        name: Stellarity-DP-DEV
+        name: Stellarity-Mod-DEV
         path: |
           data/
+          mod/
+          resource_pack/assets/
           pack.mcmeta
           pack.png
           LICENSE
