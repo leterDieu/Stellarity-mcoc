@@ -10,7 +10,7 @@
 						"items": [
 							"minecraft:bow"
 						],
-						"nbt": "{stellarity.special_item:\"spectral_fury\"}"
+						"nbt": "{stellarity.special_item:\"slayer_crossbow\"}"
 					}
 				}
 			}
@@ -24,7 +24,7 @@
 						"items": [
 							"minecraft:bow"
 						],
-						"nbt": "{stellarity.special_item:\"spectral_fury\"}"
+						"nbt": "{stellarity.special_item:\"slayer_crossbow\"}"
 					}
 				}
 			}
