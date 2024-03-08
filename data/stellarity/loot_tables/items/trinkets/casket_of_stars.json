@@ -10,9 +10,9 @@
 						{
 							"function": "minecraft:set_name",
 							"name": {
-								"translate": "stellarity.items.trinkets.dragons_eye",
-								"fallback": "Dragon's Eye",
-								"color": "#9936D6",
+								"translate": "stellarity.items.trinkets.casket_of_stars",
+								"fallback": "Casket of Stars",
+								"color": "#FFF593",
 								"italic": false
 							}
 						},
@@ -21,20 +21,20 @@
 							"lore": [
 								"",
 								{
-									"translate": "stellarity.items.trinkets.dragons_eye.description.1",
-									"fallback": "Pacifies most End mobs",
+									"translate": "stellarity.items.trinkets.casket_of_stars.description.1",
+									"fallback": "Stellar Striker's collects stars faster",
 									"color": "#EEEEEE",
 									"italic": false
 								},
 								{
-									"translate": "stellarity.items.trinkets.dragons_eye.description.2",
-									"fallback": "Provides immunity to various debuffs",
+									"translate": "stellarity.items.trinkets.casket_of_stars.description.3",
+									"fallback": "and increases their velocity",
 									"color": "#EEEEEE",
 									"italic": false
 								},
 								{
-									"translate": "stellarity.items.trinkets.dragons_eye.description.3",
-									"fallback": "These effects work only while held",
+									"translate": "stellarity.items.trinkets.casket_of_stars.description.2",
+									"fallback": "and armor penetration",
 									"color": "#EEEEEE",
 									"italic": false
 								},
@@ -49,7 +49,7 @@
 						},
 						{
 							"function": "minecraft:set_nbt",
-							"tag": "{stellarity.special_item:\"dragons_eye\",CustomModelData:90000,Enchantments:[{}],HideFlags:2,kohara.fireproof:1b}"
+							"tag": "{stellarity.special_item:\"casket_of_stars\",CustomModelData:90001,Enchantments:[{}],HideFlags:2,kohara.fireproof:1b}"
 						},
 						{
 							"function": "minecraft:set_attributes",
