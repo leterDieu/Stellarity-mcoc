@@ -20,12 +20,6 @@ issueTrackerURL = "https://discord.kohara.xyz/"
 	authors = "kohara"
 
 [[dependencies.stellarity]]
-	modId="forge"
-	mandatory=false
-	versionRange="[46,)"
-	ordering="NONE"
-	side="BOTH"
-[[dependencies.stellarity]]
 	modId="neoforge"
 	mandatory=false
 	versionRange="[20.2,)"
