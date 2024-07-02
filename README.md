@@ -1,3 +1,10 @@
+<br>
+
+A quick note that this repo is (or rather will be) a higly edited mod.
+ 
+<br>
+
+
 ![Stellarity](https://i.imgur.com/ikwYA2D.png)
 
 <br>
